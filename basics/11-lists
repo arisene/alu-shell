@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l /alu-shell/basics/boot
+ls -la /alu-shell/basics/boot
