@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --frko-guillaume vincent hello
+chown --frko-guillaume hello vincent
