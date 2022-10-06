@@ -22,4 +22,4 @@ do
 			;;
 	esac
 	((i++))	
-do
+done
